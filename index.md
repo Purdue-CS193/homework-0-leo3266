@@ -3,4 +3,4 @@
 things
 - learning how to use github
 - getting information
-- etc
+- usb helps
